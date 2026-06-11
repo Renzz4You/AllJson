@@ -1,0 +1,213 @@
+{
+  "name": "Aurora Kasih",
+  "birthday": "2004-05-15",
+  "opening": {
+    "title": "Happy Birthday",
+    "subtitle": "Today we celebrate the wonderful person you are and all the joy you bring into our lives. May this special day be filled with love, laughter, and beautiful memories.",
+    "background": "https://source.unsplash.com/1920x1080/?birthday,party"
+  },
+  "letter": {
+    "sender": "Dari Seseorang yang Peduli",
+    "content": "Aurora Kasih yang tersayang,\n\nPada hari istimewa ini, aku inginmu tahu betapa berharganya dirimu bagiku dan semua orang di sekitarmu. Senyummu, tawamu, dan jiwa indahmu membuat dunia menjadi tempat yang lebih baik.\n\nSemoga tahun baru dalam hidupmu membawakan kebahagiaan tanpa akhir, petualangan seru, dan semua cinta yang pantas kamu terima. Terus bersinar dan jangan pernah berhenti menjadi pribadi luar biasa seperti sekarang.\n\nSetiap langkahmu adalah inspirasi, setiap kata-katamu adalah kebijaksanaan, dan setiap kehadiranmu adalah berkat. Aku bersyukur mengenalmu.\n\nIni untuk satu tahun lagi penuh kenangan indah dan momen berharga. Selamat ulang tahun!",
+    "signature": "Dengan segenap cinta dan doa terbaik",
+    "background": "https://source.unsplash.com/1920x1080/?luxury,gold"
+  },
+  "gallery": [
+    {
+      "image": "https://source.unsplash.com/800x600/?birthday",
+      "title": "Hari Istimewa",
+      "caption": "Perayaan yang tak terlupakan"
+    },
+    {
+      "image": "https://source.unsplash.com/800x600/?cake",
+      "title": "Kue Impian",
+      "caption": "Manisnya kebahagiaan"
+    },
+    {
+      "image": "https://source.unsplash.com/800x600/?celebration",
+      "title": "Momen Perayaan",
+      "caption": "Keceriaan bersama"
+    },
+    {
+      "image": "https://source.unsplash.com/800x600/?balloons",
+      "title": "Dekorasi Meriah",
+      "caption": "Warna kebahagiaan"
+    },
+    {
+      "image": "https://source.unsplash.com/800x600/?gifts",
+      "title": "Hadiah Spesial",
+      "caption": "Tanda kasih sayang"
+    },
+    {
+      "image": "https://source.unsplash.com/800x600/?luxury",
+      "title": "Nuansa Mewah",
+      "caption": "Elegan dan berkelas"
+    },
+    {
+      "image": "https://source.unsplash.com/800x600/?flowers",
+      "title": "Bunga Indah",
+      "caption": "Keindahan alam"
+    },
+    {
+      "image": "https://source.unsplash.com/800x600/?friendship",
+      "title": "Persahabatan",
+      "caption": "Ikatan yang abadi"
+    },
+    {
+      "image": "https://source.unsplash.com/800x600/?memories",
+      "title": "Kenangan Manis",
+      "caption": "Tersimpan selamanya"
+    },
+    {
+      "image": "https://source.unsplash.com/800x600/?fireworks",
+      "title": "Kembang Api",
+      "caption": "Menerangi langit"
+    },
+    {
+      "image": "https://source.unsplash.com/800x600/?happy",
+      "title": "Kebahagiaan",
+      "caption": "Senyum tulus"
+    },
+    {
+      "image": "https://source.unsplash.com/800x600/?aesthetic",
+      "title": "Estetika",
+      "caption": "Keindahan visual"
+    },
+    {
+      "image": "https://source.unsplash.com/800x600/?travel",
+      "title": "Petualangan",
+      "caption": "Menjelajahi dunia"
+    },
+    {
+      "image": "https://source.unsplash.com/800x600/?special",
+      "title": "Momen Spesial",
+      "caption": "Tak terlupakan"
+    },
+    {
+      "image": "https://source.unsplash.com/800x600/?night-sky",
+      "title": "Langit Berbintang",
+      "caption": "Malam yang magis"
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2019",
+      "title": "Pertemuan Pertama",
+      "description": "Hari ketika jalan kita bersilangan dan segalanya mulai berubah. Pertemuan yang menentukan segalanya."
+    },
+    {
+      "year": "2020",
+      "title": "Membangun Ikatan",
+      "description": "Tahun penuh pembelajaran dan pertumbuhan bersama. Kita mulai memahami satu sama lain."
+    },
+    {
+      "year": "2021",
+      "title": "Petualangan Bersama",
+      "description": "Menjelajahi tempat-tempat baru dan menciptakan cerita-cerita indah yang tak terlupakan."
+    },
+    {
+      "year": "2022",
+      "title": "Pencapaian Bersama",
+      "description": "Meraih mimpi dan melewati tantangan sebagai tim. Kebersamaan yang semakin kuat."
+    },
+    {
+      "year": "2023",
+      "title": "Momen Berharga",
+      "description": "Tahun penuh tawa, air mata kebahagiaan, dan kenangan yang tersimpan dalam hati."
+    },
+    {
+      "year": "2024",
+      "title": "Awal Baru",
+      "description": "Memasuki babak baru dengan semangat dan harapan yang lebih besar. Petualangan masih panjang."
+    }
+  ],
+  "reasons": [
+    {
+      "title": "Senyumanmu",
+      "description": "Mampu menerangi ruangan manapun dan menghangatkan hati siapa saja."
+    },
+    {
+      "title": "Kelembutan Hati",
+      "description": "Selalu tahu cara membuat orang lain merasa istimewa dan dihargai."
+    },
+    {
+      "title": "Ketangguhan",
+      "description": "Menghadapi tantangan dengan anggun dan keberanian yang menginspirasi."
+    },
+    {
+      "title": "Selera Humor",
+      "description": "Tawamu menular dan selalu bisa membuat suasana menjadi lebih ringan."
+    },
+    {
+      "title": "Kecerdasan",
+      "description": "Pikiranmu sama indahnya dengan hatimu, penuh ide dan wawasan."
+    },
+    {
+      "title": "Dedikasi",
+      "description": "Mengejar impian dengan tekad dan ketulusan yang luar biasa."
+    },
+    {
+      "title": "Empati",
+      "description": "Selalu ada untuk orang lain, memberikan dukungan tanpa diminta."
+    },
+    {
+      "title": "Keaslian",
+      "description": "Menjadi diri sendiri dalam dunia yang penuh tiruan, itulah kekuatanmu."
+    },
+    {
+      "title": "Kreativitas",
+      "description": "Cara pandangmu yang unik membawa warna baru dalam setiap situasi."
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Hitunglah hidupmu dengan senyum, bukan air mata. Hitunglah usiamu dengan teman, bukan tahun.",
+      "author": "John Lennon"
+    },
+    {
+      "text": "Semakin kamu memuji dan merayakan hidupmu, semakin banyak hal dalam hidup untuk dirayakan.",
+      "author": "Oprah Winfrey"
+    },
+    {
+      "text": "Hari ini engkau adalah dirimu! Itu lebih benar dari kebenaran! Tidak ada yang hidup yang lebih dirimu daripada dirimu!",
+      "author": "Dr. Seuss"
+    },
+    {
+      "text": "Ulang tahun adalah awal baru, permulaan segar, waktu untuk memulai usaha baru dengan tujuan baru.",
+      "author": "Kata Bijak"
+    },
+    {
+      "text": "Ulang tahunmu adalah awal dari tahun baru pribadimu sendiri. Jadikan itu bermakna.",
+      "author": "Pepatah"
+    },
+    {
+      "text": "Setiap tahun ulang tahun adalah hadiah. Isi dengan kenangan yang tak terlupakan.",
+      "author": "Kata Mutiara"
+    }
+  ],
+  "video": {
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/p3KQ5Hl2fWY",
+    "title": "Video Ulang Tahun Spesial"
+  },
+  "music": [
+    {
+      "title": "Happy Birthday - Traditional",
+      "url": "https://www.orangefreesounds.com/wp-content/uploads/2016/08/Happy-birthday-instrumental.mp3"
+    }
+  ],
+  "surprise": {
+    "title": "Kamu Luar Biasa!",
+    "content": "Jangan pernah lupa betapa istimewanya dirimu. Kamu membawa begitu banyak kebahagiaan kepada semua orang di sekitarmu. Semoga semua mimpimu menjadi kenyataan! Terus bersinar dan jadilah bintang yang terang di langit kehidupan!"
+  },
+  "wishWall": {
+    "enabled": true,
+    "placeholder": "Tulis harapan ulang tahunmu di sini..."
+  },
+  "ending": {
+    "title": "Selamat Ulang Tahun, Aurora Kasih!",
+    "message": "Semoga tahun ini membawakan kebahagiaan tanpa akhir, momen-momen indah, dan semua kesuksesan yang pantas kamu terima. Terima kasih sudah menjadi dirimu yang luar biasa. Setiap hari bersamamu adalah anugerah.",
+    "footer": "Dibuat dengan cinta untukmu",
+    "background": "https://source.unsplash.com/1920x1080/?night-sky,stars"
+  }
+}
