@@ -1,5 +1,5 @@
 {
-  "name": "Ren Tamvan",
+  "name": "Nama target",
   "birthday": "2004-05-15",
   "opening": {
     "title": "Happy Birthday",
@@ -79,7 +79,7 @@
       "caption": "Menjelajahi dunia"
     },
     {
-      "image": "",
+      "image": "https://files.catbox.moe/bbu160.jpg",
       "title": "Momen Spesial",
       "caption": "Tak terlupakan"
     },
@@ -119,11 +119,6 @@
       "year": "2034",
       "title": "Awal Baru",
       "description": "Memasuki babak baru dengan semangat dan harapan yang lebih besar. Petualangan masih panjang."
-    },
-    {
-      "year": "9999",
-      "title": "Akhir",
-      "description": "Perpisahan"
     }
   ],
   "reasons": [
