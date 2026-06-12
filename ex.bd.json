@@ -14,111 +14,116 @@
   },
   "gallery": [
     {
-      "image": "https://source.unsplash.com/800x600/?birthday",
+      "image": "https://files.catbox.moe/bbu160.jpg",
       "title": "Hari Istimewa",
       "caption": "Perayaan yang tak terlupakan"
     },
     {
-      "image": "https://source.unsplash.com/800x600/?cake",
+      "image": "https://files.catbox.moe/bbu160.jpg",
       "title": "Kue Impian",
       "caption": "Manisnya kebahagiaan"
     },
     {
-      "image": "https://source.unsplash.com/800x600/?celebration",
+      "image": "https://files.catbox.moe/bbu160.jpg",
       "title": "Momen Perayaan",
       "caption": "Keceriaan bersama"
     },
     {
-      "image": "https://source.unsplash.com/800x600/?balloons",
+      "image": "https://files.catbox.moe/bbu160.jpg",
       "title": "Dekorasi Meriah",
       "caption": "Warna kebahagiaan"
     },
     {
-      "image": "https://source.unsplash.com/800x600/?gifts",
+      "image": "https://files.catbox.moe/bbu160.jpg",
       "title": "Hadiah Spesial",
       "caption": "Tanda kasih sayang"
     },
     {
-      "image": "https://source.unsplash.com/800x600/?luxury",
+      "image": "https://files.catbox.moe/bbu160.jpg",
       "title": "Nuansa Mewah",
       "caption": "Elegan dan berkelas"
     },
     {
-      "image": "https://source.unsplash.com/800x600/?flowers",
+      "image": "https://files.catbox.moe/bbu160.jpg",
       "title": "Bunga Indah",
       "caption": "Keindahan alam"
     },
     {
-      "image": "https://source.unsplash.com/800x600/?friendship",
+      "image": "https://files.catbox.moe/bbu160.jpg",
       "title": "Persahabatan",
       "caption": "Ikatan yang abadi"
     },
     {
-      "image": "https://source.unsplash.com/800x600/?memories",
+      "image": "https://files.catbox.moe/bbu160.jpg",
       "title": "Kenangan Manis",
       "caption": "Tersimpan selamanya"
     },
     {
-      "image": "https://source.unsplash.com/800x600/?fireworks",
+      "image": "https://files.catbox.moe/bbu160.jpg",
       "title": "Kembang Api",
       "caption": "Menerangi langit"
     },
     {
-      "image": "https://source.unsplash.com/800x600/?happy",
+      "image": "https://files.catbox.moe/bbu160.jpg",
       "title": "Kebahagiaan",
       "caption": "Senyum tulus"
     },
     {
-      "image": "https://source.unsplash.com/800x600/?aesthetic",
+      "image": "https://files.catbox.moe/bbu160.jpg",
       "title": "Estetika",
       "caption": "Keindahan visual"
     },
     {
-      "image": "https://source.unsplash.com/800x600/?travel",
+      "image": "https://files.catbox.moe/bbu160.jpg",
       "title": "Petualangan",
       "caption": "Menjelajahi dunia"
     },
     {
-      "image": "https://source.unsplash.com/800x600/?special",
+      "image": "",
       "title": "Momen Spesial",
       "caption": "Tak terlupakan"
     },
     {
-      "image": "https://source.unsplash.com/800x600/?night-sky",
+      "image": "https://files.catbox.moe/bbu160.jpg",
       "title": "Langit Berbintang",
       "caption": "Malam yang magis"
     }
   ],
   "timeline": [
     {
-      "year": "2019",
+      "year": "2029",
       "title": "Pertemuan Pertama",
       "description": "Hari ketika jalan kita bersilangan dan segalanya mulai berubah. Pertemuan yang menentukan segalanya."
     },
     {
-      "year": "2020",
+      "year": "2030",
       "title": "Membangun Ikatan",
       "description": "Tahun penuh pembelajaran dan pertumbuhan bersama. Kita mulai memahami satu sama lain."
     },
     {
-      "year": "2021",
+      "year": "2031",
       "title": "Petualangan Bersama",
       "description": "Menjelajahi tempat-tempat baru dan menciptakan cerita-cerita indah yang tak terlupakan."
     },
     {
-      "year": "2022",
+      "year": "2032",
       "title": "Pencapaian Bersama",
       "description": "Meraih mimpi dan melewati tantangan sebagai tim. Kebersamaan yang semakin kuat."
     },
     {
-      "year": "2023",
+      "year": "2033",
       "title": "Momen Berharga",
       "description": "Tahun penuh tawa, air mata kebahagiaan, dan kenangan yang tersimpan dalam hati."
     },
     {
-      "year": "2024",
+      "year": "2034",
       "title": "Awal Baru",
       "description": "Memasuki babak baru dengan semangat dan harapan yang lebih besar. Petualangan masih panjang."
+    },
+    {
+      "year": "9999",
+      "title": "Akhir",
+      "description": "Perpisahan"
     }
   ],
   "reasons": [
@@ -187,7 +192,7 @@
   ],
   "video": {
     "type": "youtube",
-    "url": "https://www.youtube.com/embed/p3KQ5Hl2fWY",
+    "url": "https://files.catbox.moe/bbu160.jpg",
     "title": "Video Ulang Tahun Spesial"
   },
   "music": [
